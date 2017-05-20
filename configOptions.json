@@ -1,0 +1,8 @@
+{
+"sizeOptions": [
+    {"id": "XS", "name": "Extra Small", "width": 100},
+    {"id": "S", "name": "Small", "width": 150},
+    {"id": "M", "name": "Medium", "width": 400},
+    {"id": "L", "name": "Large", "width": 640}
+  ]
+}
